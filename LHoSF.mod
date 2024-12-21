@@ -1,4 +1,4 @@
-name="LHoSF"
+name="LHoSF_dev"
 path="mod/SnootFed"
 tags={
 	"Map"
