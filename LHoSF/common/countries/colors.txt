@@ -1,0 +1,4 @@
+STF = {
+	color = rgb { 88 114 199 }
+	color_ui = rgb { 54 70 122 }
+}

@@ -1,0 +1,24 @@
+state={
+	id=3
+	name="STATE_3"
+	provinces={
+		267 314 1360 1406 1455 1493 1688 1799 2520 2771 3109 3416 3992 4165 4542 4922 4933 5070 5208 5477 5659 5883 6074 6105 6302 7265 7272 7274 7276 7277 7284 7287 7295 7297 7300 7306 7311 7312 7313 7322 7336 7338 
+		} 		
+	history={
+		owner = STF
+		victory_points = { 3838 1 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			air_base = 1
+
+	}
+
+
+	local_supplies=0.0 
+}
+	}
+	buildings_max_level_factor=1.000
+        manpower=0
+        state_category = town
+}
