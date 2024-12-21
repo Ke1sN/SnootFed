@@ -1,5 +1,5 @@
 name="LHoSF"
-path="mod/LHoSF"
+path="mod/SnootFed"
 tags={
 	"Map"
 	"Utilities"
